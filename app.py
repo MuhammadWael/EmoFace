@@ -6,7 +6,7 @@ from PIL import Image
 import io
 
 # Load the pre-trained emotion recognition model
-model = load_model('C:/Users/Arabtech/Desktop/EME Borg Notebook/facial_recognition_model.h5')
+model = load_model('facial_recognition_model.h5')
 
 # Define emotion labels
 emotion_labels = ["Angry", "Disgust", "Fear", "Happy", "Sad", "Surprise", "Neutral"]
