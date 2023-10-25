@@ -1,4 +1,4 @@
-### Bringing Emotions to the Virtual World
+# Bringing Emotions to the Virtual World
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MuhammadWael/Face_Recognition)
 ![GitHub issues](https://img.shields.io/github/issues/MuhammadWael/Face_Recognition)
