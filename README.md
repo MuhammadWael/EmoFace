@@ -4,9 +4,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/MuhammadWael/Face_Recognition)
 ![GitHub stars](https://img.shields.io/github/stars/MuhammadWael/Face_Recognition)
 ![GitHub forks](https://img.shields.io/github/forks/MuhammadWael/Face_Recognition)
+#### Video Demo:  //Wait for it 
+## Try It Out
+Explore EmoFace with our user-friendly deployment. Visit [EmoFace Streamlit App](https://face-recognition-tf.streamlit.app/) and experience it for yourself!
 
-## Introduction
-
+## Description:
 In today's digital age, our interactions often lack the depth and nuances of real-life communication. Expressing emotions, understanding reactions, and recognizing sentiments can be challenging in the virtual world. This limitation impacts various aspects of life, from education to the job market. Our project, EmoFace, tackles this issue head-on by using advanced technology to bring emotions and facial expressions to the virtual realm.
 
 ## Problem Statement
