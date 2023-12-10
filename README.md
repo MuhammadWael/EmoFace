@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/MuhammadWael/Face_Recognition)
 ![GitHub stars](https://img.shields.io/github/stars/MuhammadWael/Face_Recognition)
 ![GitHub forks](https://img.shields.io/github/forks/MuhammadWael/Face_Recognition)
-#### Video Demo:  //Wait for it 
+#### Video Demo:  [EmoFace Video](https://youtu.be/RHjpsNxK0Y8)
 ## Try It Out
 Explore EmoFace with our user-friendly deployment. Visit [EmoFace Streamlit App](https://face-recognition-tf.streamlit.app/) and experience it for yourself!
 
